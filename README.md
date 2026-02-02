@@ -1,4 +1,4 @@
-# ArhyPlayer // Vibe Coder & Backend Engineer 🚀
+# ArhyPlayer // Vibe Coder 🚀
 
 > "Fast prototyping, clean execution, agentic mindset."
 
