@@ -1,19 +1,19 @@
 ```bash
 $ whoami
-ArhyPlayer: Vibe Coder & Backend Engineer
+ArhyPlayer: Vibe Coder
 
 $ skills --focus
-- AI-Agents & OpenAI Integration
+- AI-Agents & AI Integration
 - Advanced Telegram Bot Infrastructure
 - Scalable Backend Architecture
 
 $ ls projects/
 - ai-sales-generator/  # Generating commercial offers
 - crm-support-bot/     # FAQ & Ticket management
-- neuro-content-bot/   # Brand voice content creation
+- market-monitor-engine/ # Real-time data scraping & automated price tracking
 
 $ stack --current
-Python, FastAPI, Aiogram 3, PostgreSQL, Redis, Docker
+Python, FastAPI, Aiogram 3, PostgreSQL, Docker
 
 $ contact --me
-telegram: @arhyplayer
+telegram: @ArhyPlayer
