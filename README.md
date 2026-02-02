@@ -1,19 +1,29 @@
-```bash
-$ whoami
-ArhyPlayer: Vibe Coder
+# ArhyPlayer // Vibe Coder & Backend Engineer 🚀
 
-$ skills --focus
-- AI-Agents & AI Integration
-- Advanced Telegram Bot Infrastructure
-- Scalable Backend Architecture
+> "Fast prototyping, clean execution, agentic mindset."
 
-$ ls projects/
-- ai-sales-generator/  # Generating commercial offers
-- crm-support-bot/     # FAQ & Ticket management
-- market-monitor-engine/ # Real-time data scraping & automated price tracking
+### 🔧 Специализация
+* **AI-Agents:** Создаю автономных агентов, которые не просто отвечают на вопросы, а решают конкретные бизнес-задачи.
+* **Memory Systems:** Внедряю долгосрочную память (RAG) для LLM, позволяя ботам учитывать историю и контекст каждого клиента.
+* **API First:** Проектирую чистые, документированные и масштабируемые API для бесшовной интеграции сервисов.
 
-$ stack --current
-Python, FastAPI, Aiogram 3, PostgreSQL, Docker
+---
 
-$ contact --me
-telegram: @ArhyPlayer
+### 📦 Инструментарий
+* **Core:** Python 3.10+, Flask, FastAPI, REST, Webhooks.
+* **AI:** OpenAI API, LangChain, MCP (Model Context Protocol).
+* **DB & Infra:** PostgreSQL, ChromaDB (Vector Search), Redis, Docker.
+* **Interface:** Aiogram 3 (Telegram Bot API), Web Apps.
+
+---
+
+### 🏁 Проекты
+* **[AI-Agent](https://github.com/ArhyPlayer/AI-Agent.git)** — Продвинутый Telegram-бот с искусственным интеллектом. Поддержка мультимодальности: генерация текста, изображений и видео через OpenAI.
+* **[Bronirovanie.db](https://github.com/ArhyPlayer/Bronirovanie.db.git)** — Система управления бронированием для ресторанного бизнеса. Реализована на Python с использованием PostgreSQL для надежного хранения данных.
+* **[AI_PDF_Generarator](https://github.com/ArhyPlayer/AI_PDF_Generarator.git)** — Инструмент автоматизации отчетности. Анализирует диалоги с клиентами и мгновенно формирует структурированные PDF-документы.
+
+---
+
+### 🤝 Connect
+* **Telegram:** [@ArhyPlayer](https://t.me/ArhyPlayer)
+* **Mindset:** Продуктовое мышление и фокус на автоматизацию, которая приносит результат.
