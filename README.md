@@ -1,16 +1,19 @@
-## Hi there 👋
+```bash
+$ whoami
+ArhyPlayer: Vibe Coder & Backend Engineer
 
-<!--
-**ArhyPlayer/ArhyPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ skills --focus
+- AI-Agents & OpenAI Integration
+- Advanced Telegram Bot Infrastructure
+- Scalable Backend Architecture
 
-Here are some ideas to get you started:
+$ ls projects/
+- ai-sales-generator/  # Generating commercial offers
+- crm-support-bot/     # FAQ & Ticket management
+- neuro-content-bot/   # Brand voice content creation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ stack --current
+Python, FastAPI, Aiogram 3, PostgreSQL, Redis, Docker
+
+$ contact --me
+telegram: @arhyplayer
