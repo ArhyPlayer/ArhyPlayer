@@ -18,6 +18,7 @@
 ---
 
 ### 🏁 Проекты
+* **[CLI_PDF_Generator]([https://github.com/ArhyPlayer/AI-Agent.git](https://github.com/ArhyPlayer/CLI_PDF_Generator.git))** — CLI Генератор PDF документов из CSV/JSON данных и HTML шаблонов с поддержкой кириллицы.
 * **[AI-Agent](https://github.com/ArhyPlayer/AI-Agent.git)** — Продвинутый Telegram-бот с искусственным интеллектом. Поддержка мультимодальности: генерация текста, изображений и видео через OpenAI.
 * **[Bronirovanie.db](https://github.com/ArhyPlayer/Bronirovanie.db.git)** — Система управления бронированием для ресторанного бизнеса. Реализована на Python с использованием PostgreSQL для надежного хранения данных.
 * **[AI_PDF_Generarator](https://github.com/ArhyPlayer/AI_PDF_Generarator.git)** — Инструмент автоматизации отчетности. Анализирует диалоги с клиентами и мгновенно формирует структурированные PDF-документы.
